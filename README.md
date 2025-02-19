@@ -18,8 +18,7 @@ To run the application, you'll need to have **Python** and **Streamlit** install
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/professional-growth-mindset.git
-cd professional-growth-mindset
+git clone https://github.com/NarmeenAsghar/growth-mindset.git
 ```
 
 ### 2. Install Dependencies
